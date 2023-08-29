@@ -1,2 +1,3 @@
 # Locateme
-App gives location
+App gives location of people in real time
+# New file added
